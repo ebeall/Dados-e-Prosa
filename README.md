@@ -37,7 +37,7 @@ Sugestões podem ser discutidas antes de serem incorporadas. A versão publicada
 
 ## Sobre esta edição
 
-Esta pasta reúne uma edição pública dos materiais do projeto. Os documentos de consulta são adaptações em Markdown das fontes estruturadas usadas no desenvolvimento do aplicativo. O aplicativo em si não faz parte desta publicação.
+Esta pasta reúne uma edição pública dos materiais do projeto. Os documentos de consulta são adaptações em Markdown das fontes estruturadas usadas no desenvolvimento do aplicativo. O aplicativo em si AINDA não faz parte desta publicação. Tão logo esteja em uma fase apresentável. eu compartilho aqui 
 
 ## Créditos e referências
 
