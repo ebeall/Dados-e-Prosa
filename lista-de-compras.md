@@ -1,0 +1,60 @@
+# Lista de compras, itens e talentos
+
+| id | nome | tipo | categoria | req1 | req2 | req3 | preco_moedas | dano_base | maos | alcance_max_casas | vig | des | int | pv_max | defesa | movimento | iniciativa | duracao | observação |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| I005 | Arco e flechas | Item | Arma | DES 1 |  |  | 25 | 1d4 | 2 | 8 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | Um inimigo adjacente, inclusive na diagonal, impede o disparo. |
+| I010 | Catalisador arcano de dano | Item | Item mágico | INT 1 |  |  | 30 | 1d3 | 1 | 6 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | Até 6 cargas (provisório). Uma ativação bem-sucedida causa o dano indicado. Cada tentativa consome uma ação e uma carga. Pode ser usado com escudo. |
+| I011 | Catalisador arcano de controle | Item | Item mágico | INT 1 |  |  | 30 |  | 1 | 6 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | Até 5 cargas. Uma ativação bem-sucedida impede o alvo de se deslocar, inclusive usando Arrancada, até o início do próximo turno de quem ativou o catalisador. Também impõe −3 no próximo ataque do alvo realizado nesse intervalo. O alvo ainda pode agir e atacar quem estiver ao alcance. Atacar não encerra a imobilização; se não atacar durante o efeito, a penalidade expira sem ser usada. Efeitos repetidos não se acumulam. Pode ser usado com escudo. |
+| I012 | Relicário de proteção | Item | Item mágico | INT 1 |  |  | 30 |  | 1 | 6 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | Até 3 cargas; uma ativação bem-sucedida concede +3 Defesa até o início do próximo turno de quem ativou o relicário; pode afetar o usuário ou um aliado dentro do alcance. Segurá-lo não concede bônus. Pode ser usado com escudo. |
+| I013 | Relicário de cura | Item | Item mágico | INT 1 |  |  | 30 |  | 1 | 6 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | Até 3 cargas; uma ativação bem-sucedida recupera 6 PV, sem ultrapassar o PV máximo. Um alvo inconsciente desperta com 1 PV e perde seu próximo turno, como na cura por poção. Pode afetar o usuário ou um aliado dentro do alcance. Pode ser usado com escudo. |
+| I002 | Espada | Item | Arma | VIG 1 |  |  | 15 | 1d4 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | Ataque corpo a corpo contra um alvo adjacente. |
+| I003 | Maça | Item | Arma | VIG 1 |  |  | 15 | 1d4 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | Ataque corpo a corpo contra um alvo adjacente. |
+| I007 | Armadura média | Item | Armadura | VIG 1 |  |  | 25 |  | 0 |  | 0 | 0 | 0 | 0 | 2 | -1 | 0 |  | Os ajustes de Defesa e movimento se aplicam enquanto a armadura estiver vestida. |
+| I004 | Espada de duas mãos | Item | Arma | VIG 2 |  |  | 20 | 1d6 | 2 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | Ataque corpo a corpo contra um alvo adjacente. |
+| I008 | Armadura pesada | Item | Armadura | VIG 2 |  |  | 35 |  | 0 |  | 0 | 0 | 0 | 0 | 3 | -2 | 0 |  | Os ajustes de Defesa e movimento se aplicam enquanto a armadura estiver vestida. |
+| I001 | Adaga | Item | Arma |  |  |  | 5 | 1d3 | 1 | 4 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | Pode atacar um alvo adjacente ou ser arremessada. O alcance máximo se aplica ao arremesso. Apenas o ataque corpo a corpo recebe o acréscimo de Vigor. |
+| I006 | Armadura leve | Item | Armadura |  |  |  | 10 |  | 0 |  | 0 | 0 | 0 | 0 | 1 | 0 | 0 |  | O bônus de Defesa se aplica enquanto a armadura estiver vestida. |
+| I009 | Escudo | Item | Escudo |  |  |  | 10 |  | 1 |  | 0 | 0 | 0 | 0 | 1 | 0 | 0 |  | Enquanto estiver em uso, concede o bônus de Defesa. Com Treinamento com escudos, o bônus total passa a +3 e o usuário pode Defender um aliado adjacente. |
+| I014 | Pergaminho de recarga | Item | Pergaminho |  |  |  | 20 |  |  |  | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | Exige o talento Pergaminhos. Consome uma ação e o próprio pergaminho para recarregar completamente o catalisador ou relicário correspondente. A recarga é automática. |
+| I015 | Pergaminho de ressurreição | Item | Pergaminho |  |  |  | 50 |  |  |  | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | Exige o talento Pergaminhos. Consome uma ação e o próprio pergaminho para trazer automaticamente um PC morto de volta à vida com 1 PV. |
+| I016 | Kit de gazuas | Item | Suprimento |  |  |  | 10 |  |  |  | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | Contém 5 gazuas. Cada falha em um teste usando gazua quebra uma unidade. Sem unidades restantes, o kit não pode ser usado. |
+| I017 | Corda | Item | Suprimento |  |  |  | 5 |  |  |  | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | Ajuda em escaladas e travessias. |
+| I018 | Ração | Item | Suprimento |  |  |  | 5 |  |  |  | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | Consumida durante um descanso: recupera todos os PV faltantes de um consciente ou desperta um inconsciente com 1 PV. Após despertar, outra ração no mesmo descanso recupera os PV restantes. |
+| I019 | Pederneira | Item | Suprimento |  |  |  | 2 |  |  |  | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | Para acender fogo. |
+| I020 | Tocha | Item | Suprimento |  |  |  | 1 |  |  |  | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | Ilumina uma área. |
+| I021 | Poção de cura | Item | Suprimento |  |  |  | 15 |  |  |  | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | Usar consome uma ação e recupera 4 PV. Se administrada a um personagem inconsciente, ele volta à consciência com 1 PV e perde seu próximo turno. |
+| T001 | Lâminas de uma mão | talento | geral |  |  |  | 0 |  |  |  | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | remove a penalidade de −3 nos ataques com facas, adagas e espadas de uma mão. |
+| T002 | Armas de impacto de uma mão | talento | geral |  |  |  | 0 |  |  |  | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | remove −3 nos ataques com maças e martelos de uma mão. |
+| T003 | Armas pesadas | talento | geral |  |  |  | 0 |  |  |  | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | remove −3 nos ataques corpo a corpo com armas de duas mãos. |
+| T004 | Arquearia | talento | geral |  |  |  | 0 |  |  |  | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | remove −3 nos ataques com arcos. |
+| T005 | Arremesso | talento | geral |  |  |  | 0 |  |  |  | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | remove −3 nos ataques à distância com adagas ou objetos da cena que possam ser arremessados. |
+| T006 | Magia ofensiva | talento | geral |  |  |  | 0 |  |  |  | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | remove −3 ao ativar itens mágicos que atacam ou causam dano. |
+| T007 | Milagres protetivos | talento | geral |  |  |  | 0 |  |  |  | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | remove −3 ao ativar itens sagrados que protegem ou defendem. |
+| T008 | Milagres restauradores | talento | geral |  |  |  | 0 |  |  |  | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | remove −3 ao ativar itens sagrados que curam ou restauram. |
+| T009 | Magia controladora | talento | geral |  |  |  | 0 |  |  |  | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | remove −3 ao ativar itens mágicos que influenciam, limitam ou controlam um alvo. |
+| T010 | Treinamento com escudos | talento | geral |  |  |  | 0 |  |  |  | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | o escudo concede +3 Defesa, em vez de +1, e permite usar a ação Defender um aliado. Sem esse talento, Defender um aliado não pode ser usado. |
+| T011 | Furtividade | talento | geral |  |  |  | 0 |  |  |  | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | remove −3 nos testes de Destreza para esconder-se e mover-se silenciosamente. |
+| T012 | Fechaduras | talento | geral |  |  |  | 0 |  |  |  | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | remove −3 nos testes de Destreza para abrir fechaduras com ferramentas. |
+| T013 | Desarmar armadilhas | talento | geral |  |  |  | 0 |  |  |  | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | remove −3 nos testes de Destreza para desativar armadilhas identificadas, usando ferramentas. |
+| T014 | Prestidigitação | talento | geral |  |  |  | 0 |  |  |  | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | remove −3 nos testes de Destreza para furtar pequenos objetos e fazer manipulações discretas. |
+| T015 | Acrobacia | talento | geral |  |  |  | 0 |  |  |  | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | remove −3 nos testes de Destreza para manter o equilíbrio e realizar manobras corporais difíceis. |
+| T016 | Atletismo | talento | geral |  |  |  | 0 |  |  |  | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | remove −3 nos testes de Vigor para escalar, nadar e saltar em situações difíceis. |
+| T017 | Investigação | talento | geral |  |  |  | 0 |  |  |  | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | remove −3 nos testes de Intelecto para procurar pistas, passagens secretas e sinais de armadilhas. |
+| T018 | Sobrevivência | talento | geral |  |  |  | 0 |  |  |  | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | remove −3 nos testes de Intelecto para rastrear, orientar-se e encontrar alimento ou abrigo. |
+| T019 | Conhecimento antigo | talento | geral |  |  |  | 0 |  |  |  | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | remove −3 nos testes de Intelecto para interpretar inscrições e reconhecer culturas antigas. |
+| T020 | Pergaminhos | talento | geral |  |  |  | 0 |  |  |  | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | apenas personagens com este talento podem usar pergaminhos. O uso consome uma ação e o próprio pergaminho. O efeito é automático, sem rolagem nem penalidade. O pergaminho de recarga restaura todas as cargas do item correspondente. O de ressurreição traz um PC morto de volta à vida com 1 PV. |
+| T021 | Armas naturais | talento | NPC exclusivo |  |  |  | 0 |  |  |  | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | Remove a penalidade de −3 ao atacar com armas naturais da própria criatura. |
+| T022 | Pele resistente | talento | NPC exclusivo |  |  |  | 0 |  |  |  | 0 | 0 | 0 | 0 | 1 | 0 | 0 |  | Proteção natural. Mantém o bônus de movimento sem armadura. |
+| T023 | Vitalidade adicional (+5) | talento | NPC exclusivo |  |  |  | 0 |  |  |  | 0 | 0 | 0 | 5 | 0 | 0 | 0 |  | Usar uma única faixa. Vitalidade adicional e Constituição frágil são mutuamente exclusivas. |
+| T024 | Vitalidade adicional (+10) | talento | NPC exclusivo |  |  |  | 0 |  |  |  | 0 | 0 | 0 | 10 | 0 | 0 | 0 |  | Usar uma única faixa. Vitalidade adicional e Constituição frágil são mutuamente exclusivas. |
+| T025 | Vitalidade adicional (+15) | talento | NPC exclusivo |  |  |  | 0 |  |  |  | 0 | 0 | 0 | 15 | 0 | 0 | 0 |  | Usar uma única faixa. Vitalidade adicional e Constituição frágil são mutuamente exclusivas. |
+| T026 | Constituição frágil (-2) | talento | NPC exclusivo |  |  |  | 0 |  |  |  | 0 | 0 | 0 | -2 | 0 | 0 | 0 |  | Usar uma única faixa. Vitalidade adicional e Constituição frágil são mutuamente exclusivas. |
+| T027 | Constituição frágil (-4) | talento | NPC exclusivo |  |  |  | 0 |  |  |  | 0 | 0 | 0 | -4 | 0 | 0 | 0 |  | Usar uma única faixa. Vitalidade adicional e Constituição frágil são mutuamente exclusivas. |
+| T028 | Constituição frágil (-6) | talento | NPC exclusivo |  |  |  | 0 |  |  |  | 0 | 0 | 0 | -6 | 0 | 0 | 0 |  | Usar uma única faixa. Vitalidade adicional e Constituição frágil são mutuamente exclusivas. |
+| T029 | Constituição frágil (-8) | talento | NPC exclusivo |  |  |  | 0 |  |  |  | 0 | 0 | 0 | -8 | 0 | 0 | 0 |  | Usar uma única faixa. Vitalidade adicional e Constituição frágil são mutuamente exclusivas. |
+| T030 | Mobilidade natural (+1) | talento | NPC exclusivo |  |  |  | 0 |  |  |  | 0 | 0 | 0 | 0 | 0 | 1 | 0 |  | Usar uma única faixa. Mobilidade natural e Lentidão natural são mutuamente exclusivas. |
+| T031 | Mobilidade natural (+2) | talento | NPC exclusivo |  |  |  | 0 |  |  |  | 0 | 0 | 0 | 0 | 0 | 2 | 0 |  | Usar uma única faixa. Mobilidade natural e Lentidão natural são mutuamente exclusivas. |
+| T032 | Mobilidade natural (+3) | talento | NPC exclusivo |  |  |  | 0 |  |  |  | 0 | 0 | 0 | 0 | 0 | 3 | 0 |  | Usar uma única faixa. Mobilidade natural e Lentidão natural são mutuamente exclusivas. |
+| T033 | Lentidão natural (-1) | talento | NPC exclusivo |  |  |  | 0 |  |  |  | 0 | 0 | 0 | 0 | 0 | -1 | 0 |  | Usar uma única faixa. Mobilidade natural e Lentidão natural são mutuamente exclusivas. |
+| T034 | Lentidão natural (-2) | talento | NPC exclusivo |  |  |  | 0 |  |  |  | 0 | 0 | 0 | 0 | 0 | -2 | 0 |  | Usar uma única faixa. Mobilidade natural e Lentidão natural são mutuamente exclusivas. |
+| T035 | Combate desarmado | talento | geral |  |  |  | 0 | 1d2 |  |  | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | Remove a penalidade de −3 nos ataques corpo a corpo com socos ou chutes. |
