@@ -1,12 +1,36 @@
-# Dado e Prosa
+<h1 align="center">Dado e Prosa</h1>
 
-**Um RPG de fantasia de mesa para mestres e jogadores iniciantes.**
+<p align="center">
+  <img src="imagens/pc-feminino-guerreira.jpg" alt="Personagem guerreira" width="145" />
+  <img src="imagens/pc-masculino-mago.jpg" alt="Personagem mago" width="145" />
+  <img src="imagens/pc-feminino-ladra.jpg" alt="Personagem ladra" width="145" />
+</p>
+
+<p align="center"><strong>Um RPG de fantasia de mesa para mestres e jogadores iniciantes.</strong></p>
+
+<p align="center">
+  <a href="regras.md">Regras</a> ·
+  <a href="personagens-iniciais.md">Personagens iniciais</a> ·
+  <a href="compendium.md">Monstrous Compendium</a> ·
+  <a href="aventuras/">Aventuras</a>
+</p>
 
 Dado e Prosa é um jogo de interpretação em que os jogadores criam personagens, enfrentam desafios e constroem uma história em conjunto. O mestre apresenta o mundo, interpreta os demais personagens e ajuda o grupo a resolver situações incertas usando as regras e os dados.
 
 Este material é um ponto de partida. Toda contribuição é bem-vinda para ajudar a desenvolver e aprimorar o jogo.
 
 A proposta tem como inspiração a simplicidade e o espírito de aventura dos tempos iniciais de Dungeons & Dragons, especialmente sua primeira edição. O foco é o jogo de tabuleiro, com um aplicativo planejado como apoio para ajudar o mestre e os jogadores durante a partida. Criar esse aplicativo está no roadmap do projeto.
+
+---
+
+## PDFs para compartilhar
+
+| | |
+|:--|:--|
+| 📕 [Regras — Dado e Prosa (versão 0.9)](pdf/Dado-e-Prosa-Regras-0.9.pdf) | 🧙 [Personagens iniciais](pdf/Personagens-iniciais.pdf) |
+| 👹 [Monstrous Compendium](pdf/Bestiario.pdf) | 🎒 [Lista de compras, itens e talentos](pdf/Lista-de-compras.pdf) |
+
+---
 
 ## Comece por aqui
 
@@ -42,11 +66,3 @@ Esta pasta reúne uma edição pública dos materiais do projeto. Os documentos 
 ## Créditos e referências
 
 O compêndio e alguns materiais podem incluir adaptações baseadas em referências externas, identificadas nos próprios documentos. Consulte as atribuições incluídas nas fichas e aventuras ao reutilizar esse conteúdo.
-
-## PDFs para compartilhar
-
-- [Regras — Dado e Prosa (versão 0.9)](pdf/Dado-e-Prosa-Regras-0.9.pdf)
-- [Personagens iniciais](pdf/Personagens-iniciais.pdf)
-- [Monstrous Compendium](pdf/Bestiario.pdf)
-- [Lista de compras, itens e talentos](pdf/Lista-de-compras.pdf)
-
