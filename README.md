@@ -50,12 +50,9 @@ O mestre conduz a aventura e decide como o mundo reage às ações do grupo. Os 
 
 Este projeto está em desenvolvimento. Este material é apenas um ponto de partida, e contribuições são bem-vindas. Você pode ajudar apontando trechos confusos, sugerindo ajustes ou propondo ideias para regras, personagens, criaturas, aventuras e para o aplicativo de apoio ao jogo.
 
-Para facilitar a análise das sugestões:
-
-1. Identifique o documento e a seção.
-2. Explique o que está difícil de entender ou o que gostaria de mudar.
-3. Dê um exemplo de como a mudança funcionaria durante uma partida.
-4. Quando possível, abra uma *Issue* no GitHub para registrar a sugestão e permitir a discussão.
+- Tem uma dúvida ou sugestão? Participe das [discussões da comunidade](https://github.com/ebeall/Dados-e-Prosa/discussions). Se a ideia envolver uma regra, indique a seção e dê um exemplo de como a mudança funcionaria na sua mesa.
+- Jogou ou mestrou uma sessão? Conte como foi em [Relatos de partidas](https://github.com/ebeall/Dados-e-Prosa/discussions/categories/relatos-de-partidas). Vale contar o que funcionou bem ou em que momento o grupo precisou parar para consultar uma regra.
+- Encontrou um problema específico, como um link quebrado ou valores divergentes em uma ficha? Registre o problema em [Issues](https://github.com/ebeall/Dados-e-Prosa/issues) e indique onde o encontrou.
 
 Sugestões podem ser discutidas antes de serem incorporadas. A versão publicada representa o estado do material naquele momento, e mudanças futuras podem ajustar regras após revisão.
 
