@@ -37,8 +37,16 @@ Sugestões podem ser discutidas antes de serem incorporadas. A versão publicada
 
 ## Sobre esta edição
 
-Esta pasta reúne uma edição pública dos materiais do projeto. Os documentos de consulta são adaptações em Markdown das fontes estruturadas usadas no desenvolvimento do aplicativo. O aplicativo em si AINDA não faz parte desta publicação. Tão logo esteja em uma fase apresentável. eu compartilho aqui 
+Esta pasta reúne uma edição pública dos materiais do projeto. Os documentos de consulta são adaptações em Markdown das fontes estruturadas usadas no desenvolvimento do aplicativo. O aplicativo em si não faz parte desta publicação.
 
 ## Créditos e referências
 
 O compêndio e alguns materiais podem incluir adaptações baseadas em referências externas, identificadas nos próprios documentos. Consulte as atribuições incluídas nas fichas e aventuras ao reutilizar esse conteúdo.
+
+## PDFs para compartilhar
+
+- [Regras — Dado e Prosa (versão 0.9)](pdf/Dado-e-Prosa-Regras-0.9.pdf)
+- [Personagens iniciais](pdf/Personagens-iniciais.pdf)
+- [Monstrous Compendium](pdf/Bestiario.pdf)
+- [Lista de compras, itens e talentos](pdf/Lista-de-compras.pdf)
+
