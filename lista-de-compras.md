@@ -1,6 +1,6 @@
 # Lista de compras, itens e talentos
 
-Versão 0.15
+Versão 0.15 · Última modificação em 11/11/2026
 
 ## Arco e flechas (I005)
 
