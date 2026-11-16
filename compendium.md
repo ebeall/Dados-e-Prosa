@@ -1,6 +1,6 @@
 # Monstrous Compendium
 
-Versão 0.15
+Versão 0.15 · Última modificação em 11/11/2026
 
 ## Rato gigante (C01)
 
