@@ -1,15 +1,18 @@
 # Monstrous Compendium
 
-![Rato gigante](imagens/animal-rato-gigante.jpg)
+Versão 0.15
 
 ## Rato gigante (C01)
 
-**Tipo:** Animal
-**Nível:** 1
-**Status:** Adaptada com atributos; equilíbrio ainda não validado.
-**Vigor:** 1
-**Destreza:** 2
-**Intelecto:** 0
+![Rato gigante](imagens/animal-rato-gigante.jpg)
+
+- **Status**: Adaptada com atributos; equilíbrio ainda não validado.
+- **Tipo**: Animal
+- **Nivel**: 1
+- **Vigor**: 1
+- **Destreza**: 2
+- **Intelecto**: 0
+- **Base**: largura: 1, comprimento: 1
 
 ### Talentos e características
 
@@ -31,25 +34,24 @@ Sem saque habitual. O mestre pode colocar no ninho um objeto perdido no depósit
 
 ### Detalhes
 
-- titulo: Cena sugerida, texto: Esgotos e depósitos. Pode fugir quando perde acesso à comida.
-- titulo: Adaptação, texto: Sem doenças ou veneno.
+- **Cena sugerida**: Esgotos e depósitos. Pode fugir quando perde acesso à comida.
+- **Adaptação**: Sem doenças ou veneno.
 
 ### Referência
 
 Giant Rat.
 
----
+## Besouro luminoso gigante (C02)
 
 ![Besouro luminoso gigante](imagens/animal-besouro-luminoso-gigante.jpg)
 
-## Besouro luminoso gigante (C02)
-
-**Tipo:** Animal
-**Nível:** 1
-**Status:** Adaptada com atributos; equilíbrio ainda não validado.
-**Vigor:** 1
-**Destreza:** 0
-**Intelecto:** 0
+- **Status**: Adaptada com atributos; equilíbrio ainda não validado.
+- **Tipo**: Animal
+- **Nivel**: 1
+- **Vigor**: 1
+- **Destreza**: 0
+- **Intelecto**: 0
+- **Base**: largura: 1, comprimento: 1
 
 ### Talentos e características
 
@@ -72,25 +74,24 @@ Ocasionalmente, uma asa rígida e iridescente, aproveitável como adorno.
 
 ### Detalhes
 
-- titulo: Cena sugerida, texto: Cavernas. Seu brilho ajuda a anunciar a presença antes do encontro.
-- titulo: Adaptação, texto: Brilho apenas descritivo; sem dano contínuo ou resistência a fogo.
+- **Cena sugerida**: Cavernas. Seu brilho ajuda a anunciar a presença antes do encontro.
+- **Adaptação**: Brilho apenas descritivo; sem dano contínuo ou resistência a fogo.
 
 ### Referência
 
 Giant Fire Beetle.
 
----
+## Sapo gigante (C03)
 
 ![Sapo gigante](imagens/animal-sapo-gigante.jpg)
 
-## Sapo gigante (C03)
-
-**Tipo:** Animal
-**Nível:** 1
-**Status:** Adaptada com atributos; equilíbrio ainda não validado.
-**Vigor:** 1
-**Destreza:** 1
-**Intelecto:** 0
+- **Status**: Adaptada com atributos; equilíbrio ainda não validado.
+- **Tipo**: Animal
+- **Nivel**: 1
+- **Vigor**: 1
+- **Destreza**: 1
+- **Intelecto**: 0
+- **Base**: largura: 1, comprimento: 1
 
 ### Talentos e características
 
@@ -112,25 +113,24 @@ Sem saque habitual.
 
 ### Detalhes
 
-- titulo: Cena sugerida, texto: Margens de lagoas e ruínas úmidas. Defende seu esconderijo.
-- titulo: Adaptação, texto: Sem engolir ou agarrar; usar encontro em chão firme.
+- **Cena sugerida**: Margens de lagoas e ruínas úmidas. Defende seu esconderijo.
+- **Adaptação**: Sem engolir ou agarrar; usar encontro em chão firme.
 
 ### Referência
 
 Giant Frog.
 
----
+## Lagarto gigante (C04)
 
 ![Lagarto gigante](imagens/animal-lagarto-gigante.jpg)
 
-## Lagarto gigante (C04)
-
-**Tipo:** Animal
-**Nível:** 1
-**Status:** Adaptada com atributos; equilíbrio ainda não validado.
-**Vigor:** 1
-**Destreza:** 1
-**Intelecto:** 0
+- **Status**: Adaptada com atributos; equilíbrio ainda não validado.
+- **Tipo**: Animal
+- **Nivel**: 1
+- **Vigor**: 1
+- **Destreza**: 1
+- **Intelecto**: 0
+- **Base**: largura: 2, comprimento: 2
 
 ### Talentos e características
 
@@ -152,25 +152,24 @@ Ocasionalmente, um pedaço de casca de ovo junto ao ninho. Pode servir de amostr
 
 ### Detalhes
 
-- titulo: Cena sugerida, texto: Pedreiras e túneis largos. Pode guardar um ninho.
-- titulo: Adaptação, texto: Sem escalada automática; o tamanho exige caminhos largos.
+- **Cena sugerida**: Pedreiras e túneis largos. Pode guardar um ninho.
+- **Adaptação**: Sem escalada automática; o tamanho exige caminhos largos.
 
 ### Referência
 
 Giant Lizard.
 
----
+## Kobold (C05)
 
 ![Kobold](imagens/monstro-kobold.jpg)
 
-## Kobold (C05)
-
-**Tipo:** Monstro
-**Nível:** 1
-**Status:** Adaptada com atributos; equilíbrio ainda não validado.
-**Vigor:** 1
-**Destreza:** 2
-**Intelecto:** 1
+- **Status**: Adaptada com atributos; equilíbrio ainda não validado.
+- **Tipo**: Monstro
+- **Nivel**: 1
+- **Vigor**: 1
+- **Destreza**: 2
+- **Intelecto**: 1
+- **Base**: largura: 1, comprimento: 1
 
 ### Talentos e características
 
@@ -194,25 +193,24 @@ Giant Lizard.
 
 ### Detalhes
 
-- titulo: Cena sugerida, texto: Pequeno sentinela de túneis. Pode negociar passagem ou pedir ajuda.
-- titulo: Adaptação, texto: Pode arremessar adaga com +2 (Destreza), dano 1d3, alcance 4; leva duas. Uma ação por ataque.
+- **Cena sugerida**: Pequeno sentinela de túneis. Pode negociar passagem ou pedir ajuda.
+- **Adaptação**: Pode arremessar adaga com +2 (Destreza), dano 1d3, alcance 4; leva duas. Uma ação por ataque.
 
 ### Referência
 
 Kobold Warrior.
 
----
+## Goblin (C06)
 
 ![Goblin](imagens/monstro-goblin.jpg)
 
-## Goblin (C06)
-
-**Tipo:** Monstro
-**Nível:** 1
-**Status:** Adaptada com atributos; equilíbrio ainda não validado.
-**Vigor:** 1
-**Destreza:** 2
-**Intelecto:** 1
+- **Status**: Adaptada com atributos; equilíbrio ainda não validado.
+- **Tipo**: Monstro
+- **Nivel**: 1
+- **Vigor**: 1
+- **Destreza**: 2
+- **Intelecto**: 1
+- **Base**: largura: 1, comprimento: 1
 
 ### Talentos e características
 
@@ -236,25 +234,24 @@ Kobold Warrior.
 
 ### Detalhes
 
-- titulo: Cena sugerida, texto: Explorador de ruínas. Pode disputar suprimentos em vez de lutar até cair.
-- titulo: Adaptação, texto: Duas adagas e armadura leve. Arremesso: 1d20 + 2 (Destreza), dano 1d3, alcance 4 casas. Uma ação por ataque; sem ação extra.
+- **Cena sugerida**: Explorador de ruínas. Pode disputar suprimentos em vez de lutar até cair.
+- **Adaptação**: Duas adagas e armadura leve. Arremesso: 1d20 + 2 (Destreza), dano 1d3, alcance 4 casas. Uma ação por ataque; sem ação extra.
 
 ### Referência
 
 Goblin Warrior.
 
----
+## Esqueleto (C07)
 
 ![Esqueleto](imagens/monstro-esqueleto.jpg)
 
-## Esqueleto (C07)
-
-**Tipo:** Monstro
-**Nível:** 1
-**Status:** Adaptada com atributos; equilíbrio ainda não validado.
-**Vigor:** 1
-**Destreza:** 0
-**Intelecto:** 0
+- **Status**: Adaptada com atributos; equilíbrio ainda não validado.
+- **Tipo**: Monstro
+- **Nivel**: 1
+- **Vigor**: 1
+- **Destreza**: 0
+- **Intelecto**: 0
+- **Base**: largura: 1, comprimento: 1
 
 ### Talentos e características
 
@@ -277,25 +274,24 @@ Ocasionalmente, 1 a 3 moedas deixadas como oferenda funerária. Também pode hav
 
 ### Detalhes
 
-- titulo: Cena sugerida, texto: Guarda de uma porta antiga. Uma inscrição pode explicar sua tarefa.
-- titulo: Adaptação, texto: Sem imunidades, vulnerabilidades ou ataques extras.
+- **Cena sugerida**: Guarda de uma porta antiga. Uma inscrição pode explicar sua tarefa.
+- **Adaptação**: Sem imunidades, vulnerabilidades ou ataques extras.
 
 ### Referência
 
 Skeleton.
 
----
+## Zumbi (C08)
 
 ![Zumbi](imagens/monstro-zumbi.jpg)
 
-## Zumbi (C08)
-
-**Tipo:** Monstro
-**Nível:** 1
-**Status:** Adaptada com atributos; equilíbrio ainda não validado.
-**Vigor:** 1
-**Destreza:** 0
-**Intelecto:** 0
+- **Status**: Adaptada com atributos; equilíbrio ainda não validado.
+- **Tipo**: Monstro
+- **Nivel**: 1
+- **Vigor**: 1
+- **Destreza**: 0
+- **Intelecto**: 0
+- **Base**: largura: 1, comprimento: 1
 
 ### Talentos e características
 
@@ -317,25 +313,24 @@ Ocasionalmente, 1 a 3 moedas esquecidas num bolso. Também pode haver um anel co
 
 ### Detalhes
 
-- titulo: Cena sugerida, texto: Vigia lento de um local abandonado. É possível contorná-lo.
-- titulo: Adaptação, texto: Sem voltar a agir depois de derrotado.
+- **Cena sugerida**: Vigia lento de um local abandonado. É possível contorná-lo.
+- **Adaptação**: Sem voltar a agir depois de derrotado.
 
 ### Referência
 
 Zombie.
 
----
+## Lobo (C09)
 
 ![Lobo](imagens/animal-lobo.jpg)
 
-## Lobo (C09)
-
-**Tipo:** Animal
-**Nível:** 1
-**Status:** Adaptada com atributos; equilíbrio ainda não validado.
-**Vigor:** 2
-**Destreza:** 2
-**Intelecto:** 0
+- **Status**: Adaptada com atributos; equilíbrio ainda não validado.
+- **Tipo**: Animal
+- **Nivel**: 1
+- **Vigor**: 2
+- **Destreza**: 2
+- **Intelecto**: 0
+- **Base**: largura: 1, comprimento: 1
 
 ### Talentos e características
 
@@ -357,25 +352,24 @@ Sem saque habitual.
 
 ### Detalhes
 
-- titulo: Cena sugerida, texto: Bosques e cavernas. Pode proteger filhotes ou alimento.
-- titulo: Adaptação, texto: Sem armadura ou escudo. Mordida é uma arma natural treinada; uma ação por ataque. Sem derrubar e sem bônus automático de matilha.
+- **Cena sugerida**: Bosques e cavernas. Pode proteger filhotes ou alimento.
+- **Adaptação**: Sem armadura ou escudo. Mordida é uma arma natural treinada; uma ação por ataque. Sem derrubar e sem bônus automático de matilha.
 
 ### Referência
 
 Wolf.
 
----
+## Urso-negro (C10)
 
 ![Urso-negro](imagens/animal-urso-negro.jpg)
 
-## Urso-negro (C10)
-
-**Tipo:** Animal
-**Nível:** 1
-**Status:** Adaptada com atributos; equilíbrio ainda não validado.
-**Vigor:** 2
-**Destreza:** 0
-**Intelecto:** 0
+- **Status**: Adaptada com atributos; equilíbrio ainda não validado.
+- **Tipo**: Animal
+- **Nivel**: 1
+- **Vigor**: 2
+- **Destreza**: 0
+- **Intelecto**: 0
+- **Base**: largura: 1, comprimento: 1
 
 ### Talentos e características
 
@@ -398,25 +392,24 @@ Ocasionalmente, uma garra que pode ser guardada como troféu.
 
 ### Detalhes
 
-- titulo: Cena sugerida, texto: Florestas. Prefere proteger seu espaço a perseguir aventureiros.
-- titulo: Adaptação, texto: Uma garra por ação; sem ataque adicional de mordida.
+- **Cena sugerida**: Florestas. Prefere proteger seu espaço a perseguir aventureiros.
+- **Adaptação**: Uma garra por ação; sem ataque adicional de mordida.
 
 ### Referência
 
 Black Bear.
 
----
+## Bandido (H01)
 
 ![Bandido](imagens/humano-bandido.jpg)
 
-## Bandido (H01)
-
-**Tipo:** Humano
-**Nível:** 1
-**Status:** Adaptada com atributos; equilíbrio ainda não validado.
-**Vigor:** 2
-**Destreza:** 1
-**Intelecto:** 1
+- **Status**: Adaptada com atributos; equilíbrio ainda não validado.
+- **Tipo**: Humano
+- **Nivel**: 1
+- **Vigor**: 2
+- **Destreza**: 1
+- **Intelecto**: 1
+- **Base**: largura: 1, comprimento: 1
 
 ### Talentos e características
 
@@ -439,25 +432,24 @@ Black Bear.
 
 ### Detalhes
 
-- titulo: Cena sugerida, texto: Pode ser inimigo, informante ou alguém disposto a se render.
-- titulo: Atenção, texto: Não possui escudo.
+- **Cena sugerida**: Pode ser inimigo, informante ou alguém disposto a se render.
+- **Atenção**: Não possui escudo.
 
 ### Referência
 
 Bandit, representado como humano nesta adaptação.
 
----
+## Guarda (H02)
 
 ![Guarda](imagens/humano-guarda.jpg)
 
-## Guarda (H02)
-
-**Tipo:** Humano
-**Nível:** 1
-**Status:** Adaptada com atributos; equilíbrio ainda não validado.
-**Vigor:** 1
-**Destreza:** 0
-**Intelecto:** 1
+- **Status**: Adaptada com atributos; equilíbrio ainda não validado.
+- **Tipo**: Humano
+- **Nivel**: 1
+- **Vigor**: 1
+- **Destreza**: 0
+- **Intelecto**: 1
+- **Base**: largura: 1, comprimento: 1
 
 ### Talentos e características
 
@@ -480,25 +472,24 @@ Bandit, representado como humano nesta adaptação.
 
 ### Detalhes
 
-- titulo: Cena sugerida, texto: Protege um portão ou acompanha uma caravana. Não precisa ser antagonista.
-- titulo: Atenção, texto: O escudo sem Treinamento com escudos concede +1 Defesa. Não pode Defender aliado.
+- **Cena sugerida**: Protege um portão ou acompanha uma caravana. Não precisa ser antagonista.
+- **Atenção**: O escudo sem Treinamento com escudos concede +1 Defesa. Não pode Defender aliado.
 
 ### Referência
 
 Guard, representado como humano nesta adaptação.
 
----
+## Aranha gigante (C11)
 
 ![Aranha gigante](imagens/animal-aranha-gigante.jpg)
 
-## Aranha gigante (C11)
-
-**Tipo:** Animal
-**Nível:** 2
-**Status:** Adaptada com atributos; equilíbrio ainda não validado.
-**Vigor:** 2
-**Destreza:** 2
-**Intelecto:** 0
+- **Status**: Adaptada com atributos; equilíbrio ainda não validado.
+- **Tipo**: Animal
+- **Nivel**: 2
+- **Vigor**: 2
+- **Destreza**: 2
+- **Intelecto**: 0
+- **Base**: largura: 2, comprimento: 2
 
 ### Talentos e características
 
@@ -521,25 +512,24 @@ Ocasionalmente, uma bolsa de viajante presa na teia, se já houve uma vítima no
 
 ### Detalhes
 
-- titulo: Cena sugerida, texto: Salões abandonados. Teias antigas podem anunciar o perigo.
-- titulo: Adaptação, texto: Sem veneno ou aprisionamento nesta versão; teias são descrição, não condição automática.
+- **Cena sugerida**: Salões abandonados. Teias antigas podem anunciar o perigo.
+- **Adaptação**: Sem veneno ou aprisionamento nesta versão; teias são descrição, não condição automática.
 
 ### Referência
 
 Giant Spider.
 
----
+## Javali gigante (C12)
 
 ![Javali gigante](imagens/animal-javali-gigante.jpg)
 
-## Javali gigante (C12)
-
-**Tipo:** Animal
-**Nível:** 2
-**Status:** Adaptada com atributos; equilíbrio ainda não validado.
-**Vigor:** 2
-**Destreza:** 1
-**Intelecto:** 0
+- **Status**: Adaptada com atributos; equilíbrio ainda não validado.
+- **Tipo**: Animal
+- **Nivel**: 2
+- **Vigor**: 2
+- **Destreza**: 1
+- **Intelecto**: 0
+- **Base**: largura: 2, comprimento: 2
 
 ### Talentos e características
 
@@ -560,25 +550,24 @@ Ocasionalmente, uma presa curva, aproveitável para entalhe ou como adorno.
 
 ### Detalhes
 
-- titulo: Cena sugerida, texto: Clareiras e passagens de mata. Pode reagir à aproximação brusca.
-- titulo: Adaptação, texto: Sem dano extra de investida.
+- **Cena sugerida**: Clareiras e passagens de mata. Pode reagir à aproximação brusca.
+- **Adaptação**: Sem dano extra de investida.
 
 ### Referência
 
 Giant Boar.
 
----
+## Serpente constritora (C13)
 
 ![Serpente constritora](imagens/animal-serpente-constritora.jpg)
 
-## Serpente constritora (C13)
-
-**Tipo:** Animal
-**Nível:** 2
-**Status:** Adaptada com atributos; equilíbrio ainda não validado.
-**Vigor:** 2
-**Destreza:** 1
-**Intelecto:** 0
+- **Status**: Adaptada com atributos; equilíbrio ainda não validado.
+- **Tipo**: Animal
+- **Nivel**: 2
+- **Vigor**: 2
+- **Destreza**: 1
+- **Intelecto**: 0
+- **Base**: largura: 2, comprimento: 2
 
 ### Talentos e características
 
@@ -600,25 +589,24 @@ Ocasionalmente, uma muda de pele entre as pedras. Os jogadores podem recolhê-la
 
 ### Detalhes
 
-- titulo: Cena sugerida, texto: Ruínas tomadas pela vegetação. Pode ser evitada por outro caminho.
-- titulo: Adaptação, texto: Sem agarrar ou sufocar; a base representa o espaço de combate, não o comprimento total.
+- **Cena sugerida**: Ruínas tomadas pela vegetação. Pode ser evitada por outro caminho.
+- **Adaptação**: Sem agarrar ou sufocar; a base representa o espaço de combate, não o comprimento total.
 
 ### Referência
 
 Constrictor Snake.
 
----
+## Centopeia gigante (C14)
 
 ![Centopeia gigante](imagens/animal-centopeia-gigante.jpg)
 
-## Centopeia gigante (C14)
-
-**Tipo:** Animal
-**Nível:** 2
-**Status:** Adaptada com atributos; equilíbrio ainda não validado.
-**Vigor:** 2
-**Destreza:** 2
-**Intelecto:** 0
+- **Status**: Adaptada com atributos; equilíbrio ainda não validado.
+- **Tipo**: Animal
+- **Nivel**: 2
+- **Vigor**: 2
+- **Destreza**: 2
+- **Intelecto**: 0
+- **Base**: largura: 1, comprimento: 1
 
 ### Talentos e características
 
@@ -641,25 +629,24 @@ Sem saque habitual.
 
 ### Detalhes
 
-- titulo: Cena sugerida, texto: Fendas e depósitos úmidos. Pode sair quando seu abrigo é perturbado.
-- titulo: Adaptação, texto: Sem veneno; alcance somente adjacente.
+- **Cena sugerida**: Fendas e depósitos úmidos. Pode sair quando seu abrigo é perturbado.
+- **Adaptação**: Sem veneno; alcance somente adjacente.
 
 ### Referência
 
 Giant Centipede.
 
----
+## Caranguejo gigante (C15)
 
 ![Caranguejo gigante](imagens/animal-caranguejo-gigante.jpg)
 
-## Caranguejo gigante (C15)
-
-**Tipo:** Animal
-**Nível:** 2
-**Status:** Adaptada com atributos; equilíbrio ainda não validado.
-**Vigor:** 1
-**Destreza:** 0
-**Intelecto:** 0
+- **Status**: Adaptada com atributos; equilíbrio ainda não validado.
+- **Tipo**: Animal
+- **Nivel**: 2
+- **Vigor**: 1
+- **Destreza**: 0
+- **Intelecto**: 0
+- **Base**: largura: 1, comprimento: 1
 
 ### Talentos e características
 
@@ -681,25 +668,24 @@ Ocasionalmente, uma pinça intacta que pode servir de recipiente ou troféu.
 
 ### Detalhes
 
-- titulo: Cena sugerida, texto: Praias e grutas. Sua carapaça é sua principal defesa.
-- titulo: Adaptação, texto: Sem agarrar; encontro em superfície firme, sem regras de combate submerso.
+- **Cena sugerida**: Praias e grutas. Sua carapaça é sua principal defesa.
+- **Adaptação**: Sem agarrar; encontro em superfície firme, sem regras de combate submerso.
 
 ### Referência
 
 Giant Crab.
 
----
+## Hobgoblin (C16)
 
 ![Hobgoblin](imagens/monstro-hobgoblin.jpg)
 
-## Hobgoblin (C16)
-
-**Tipo:** Monstro
-**Nível:** 2
-**Status:** Adaptada com atributos; equilíbrio ainda não validado.
-**Vigor:** 2
-**Destreza:** 1
-**Intelecto:** 1
+- **Status**: Adaptada com atributos; equilíbrio ainda não validado.
+- **Tipo**: Monstro
+- **Nivel**: 2
+- **Vigor**: 2
+- **Destreza**: 1
+- **Intelecto**: 1
+- **Base**: largura: 1, comprimento: 1
 
 ### Talentos e características
 
@@ -722,25 +708,24 @@ Giant Crab.
 
 ### Detalhes
 
-- titulo: Cena sugerida, texto: Sentinela disciplinado. Pode obedecer a ordens ou aceitar rendição.
-- titulo: Adaptação, texto: Armadura média e escudo sem treino: Defesa 10 + 2 + 1. Pode Defender a si, mas não aliado.
+- **Cena sugerida**: Sentinela disciplinado. Pode obedecer a ordens ou aceitar rendição.
+- **Adaptação**: Armadura média e escudo sem treino: Defesa 10 + 2 + 1. Pode Defender a si, mas não aliado.
 
 ### Referência
 
 Hobgoblin Warrior.
 
----
+## Bugbear (C17)
 
 ![Bugbear](imagens/monstro-bugbear.jpg)
 
-## Bugbear (C17)
-
-**Tipo:** Monstro
-**Nível:** 2
-**Status:** Adaptada com atributos; equilíbrio ainda não validado.
-**Vigor:** 3
-**Destreza:** 1
-**Intelecto:** 1
+- **Status**: Adaptada com atributos; equilíbrio ainda não validado.
+- **Tipo**: Monstro
+- **Nivel**: 2
+- **Vigor**: 3
+- **Destreza**: 1
+- **Intelecto**: 1
+- **Base**: largura: 1, comprimento: 1
 
 ### Talentos e características
 
@@ -763,25 +748,24 @@ Hobgoblin Warrior.
 
 ### Detalhes
 
-- titulo: Cena sugerida, texto: Vigia forte de um acampamento. Pode tentar encerrar a luta intimidando.
-- titulo: Adaptação, texto: Sem dano surpresa, alcance ampliado ou ataque extra.
+- **Cena sugerida**: Vigia forte de um acampamento. Pode tentar encerrar a luta intimidando.
+- **Adaptação**: Sem dano surpresa, alcance ampliado ou ataque extra.
 
 ### Referência
 
 Bugbear Warrior.
 
----
+## Gnoll (C18)
 
 ![Gnoll](imagens/monstro-gnoll.jpg)
 
-## Gnoll (C18)
-
-**Tipo:** Monstro
-**Nível:** 2
-**Status:** Adaptada com atributos; equilíbrio ainda não validado.
-**Vigor:** 2
-**Destreza:** 2
-**Intelecto:** 1
+- **Status**: Adaptada com atributos; equilíbrio ainda não validado.
+- **Tipo**: Monstro
+- **Nivel**: 2
+- **Vigor**: 2
+- **Destreza**: 2
+- **Intelecto**: 1
+- **Base**: largura: 1, comprimento: 1
 
 ### Talentos e características
 
@@ -803,25 +787,24 @@ Bugbear Warrior.
 
 ### Detalhes
 
-- titulo: Cena sugerida, texto: Patrulheiro de ermos. Pode estar guardando uma rota ou mercadoria.
-- titulo: Adaptação, texto: Sem ataque adicional ao derrubar alguém.
+- **Cena sugerida**: Patrulheiro de ermos. Pode estar guardando uma rota ou mercadoria.
+- **Adaptação**: Sem ataque adicional ao derrubar alguém.
 
 ### Referência
 
 Gnoll Warrior.
 
----
+## Armadura animada (C19)
 
 ![Armadura animada](imagens/monstro-armadura-animada.jpg)
 
-## Armadura animada (C19)
-
-**Tipo:** Monstro
-**Nível:** 2
-**Status:** Adaptada com atributos; equilíbrio ainda não validado.
-**Vigor:** 2
-**Destreza:** 0
-**Intelecto:** 0
+- **Status**: Adaptada com atributos; equilíbrio ainda não validado.
+- **Tipo**: Monstro
+- **Nivel**: 2
+- **Vigor**: 2
+- **Destreza**: 0
+- **Intelecto**: 0
+- **Base**: largura: 1, comprimento: 1
 
 ### Talentos e características
 
@@ -844,25 +827,24 @@ Sem moedas habituais. Ocasionalmente, um brasão de metal preso ao peitoral iden
 
 ### Detalhes
 
-- titulo: Cena sugerida, texto: Guarda mágico de salão. Pode obedecer a uma senha ou sinal.
-- titulo: Adaptação, texto: Defesa própria da criatura; sem imunidades. Não é armadura vestível automaticamente recuperável.
+- **Cena sugerida**: Guarda mágico de salão. Pode obedecer a uma senha ou sinal.
+- **Adaptação**: Defesa própria da criatura; sem imunidades. Não é armadura vestível automaticamente recuperável.
 
 ### Referência
 
 Animated Armor.
 
----
+## Urso-pardo (C20)
 
 ![Urso-pardo](imagens/animal-urso-pardo.jpg)
 
-## Urso-pardo (C20)
-
-**Tipo:** Animal
-**Nível:** 2
-**Status:** Adaptada com atributos; equilíbrio ainda não validado.
-**Vigor:** 3
-**Destreza:** 1
-**Intelecto:** 0
+- **Status**: Adaptada com atributos; equilíbrio ainda não validado.
+- **Tipo**: Animal
+- **Nivel**: 2
+- **Vigor**: 3
+- **Destreza**: 1
+- **Intelecto**: 0
+- **Base**: largura: 2, comprimento: 2
 
 ### Talentos e características
 
@@ -883,25 +865,24 @@ Ocasionalmente, uma pele espessa, útil como coberta depois de preparada.
 
 ### Detalhes
 
-- titulo: Cena sugerida, texto: Matas e cavernas amplas. Anuncia sua presença antes de atacar.
-- titulo: Adaptação, texto: Uma garra por ação; sem agarrar.
+- **Cena sugerida**: Matas e cavernas amplas. Anuncia sua presença antes de atacar.
+- **Adaptação**: Uma garra por ação; sem agarrar.
 
 ### Referência
 
 Brown Bear.
 
----
+## Batedor humano (H03)
 
 ![Batedor humano](imagens/humano-batedor-humano.jpg)
 
-## Batedor humano (H03)
-
-**Tipo:** Humano
-**Nível:** 2
-**Status:** Adaptada com atributos; equilíbrio ainda não validado.
-**Vigor:** 1
-**Destreza:** 3
-**Intelecto:** 1
+- **Status**: Adaptada com atributos; equilíbrio ainda não validado.
+- **Tipo**: Humano
+- **Nivel**: 2
+- **Vigor**: 1
+- **Destreza**: 3
+- **Intelecto**: 1
+- **Base**: largura: 1, comprimento: 1
 
 ### Talentos e características
 
@@ -925,25 +906,24 @@ Brown Bear.
 
 ### Detalhes
 
-- titulo: Cena sugerida, texto: Vigia estradas e procura rotas seguras. Pode oferecer pistas ou perseguir intrusos.
-- titulo: Atenção, texto: O arco ocupa duas mãos e não pode ser disparado com inimigo adjacente, inclusive na diagonal. Trocar entre arco e espada consome uma ação.
+- **Cena sugerida**: Vigia estradas e procura rotas seguras. Pode oferecer pistas ou perseguir intrusos.
+- **Atenção**: O arco ocupa duas mãos e não pode ser disparado com inimigo adjacente, inclusive na diagonal. A aljava inicial contém 20 flechas; cada disparo consome uma. Trocar entre arco e espada consome uma ação.
 
 ### Referência
 
 Scout, representado como humano nesta adaptação.
 
----
+## Acólito humano (H04)
 
 ![Acólito humano](imagens/humano-acolito-humano.jpg)
 
-## Acólito humano (H04)
-
-**Tipo:** Humano
-**Nível:** 2
-**Status:** Adaptada com atributos; equilíbrio ainda não validado.
-**Vigor:** 1
-**Destreza:** 0
-**Intelecto:** 2
+- **Status**: Adaptada com atributos; equilíbrio ainda não validado.
+- **Tipo**: Humano
+- **Nivel**: 2
+- **Vigor**: 1
+- **Destreza**: 0
+- **Intelecto**: 2
+- **Base**: largura: 1, comprimento: 1
 
 ### Talentos e características
 
@@ -959,7 +939,7 @@ Scout, representado como humano nesta adaptação.
 
 - identificador: maca, nome: Maça, tipo: arma, quantidade: 1, treinamento: impacto-uma-mao, dano: 1d4, alcance: adjacente
 - identificador: armadura-leve, nome: Armadura leve, tipo: armadura, quantidade: 1, defesa: 1, penalidadeMovimento: 0
-- identificador: relicario-cura, nome: Relicário de cura — 3 cargas, tipo: item-magico, quantidade: 1, treinamento: milagres-restauradores, cargasMaximas: 3, alcance: 6 casas, efeito: tipo: cura, valor: 6
+- identificador: relicario-cura, nome: Relicário de cura — 3 cargas, tipo: item-magico, quantidade: 1, treinamento: milagres-restauradores, cargasMaximas: 3, alcance: 6 casas, efeito: {'tipo': 'cura', 'valor': 6}
 
 ### Saque
 
@@ -967,25 +947,24 @@ Scout, representado como humano nesta adaptação.
 
 ### Detalhes
 
-- titulo: Cena sugerida, texto: Responsável por um santuário. Pode curar viajantes ou apoiar guardiões.
-- titulo: Atenção, texto: A cura bem-sucedida traz um inconsciente vivo de volta com 1 PV e ele perde a próxima rodada. Não ressuscita mortos. Sem Pergaminhos; não recarrega o relicário.
+- **Cena sugerida**: Responsável por um santuário. Pode curar viajantes ou apoiar guardiões.
+- **Atenção**: A cura bem-sucedida traz um inconsciente vivo de volta com 1 PV e ele perde a próxima rodada. Não ressuscita mortos. Sem Pergaminhos; não recarrega o relicário.
 
 ### Referência
 
 Priest Acolyte, representado como humano nesta adaptação.
 
----
+## Ogro (C21)
 
 ![Ogro](imagens/monstro-ogro.jpg)
 
-## Ogro (C21)
-
-**Tipo:** Monstro
-**Nível:** 3
-**Status:** Adaptada com atributos; equilíbrio ainda não validado.
-**Vigor:** 5
-**Destreza:** 0
-**Intelecto:** 0
+- **Status**: Adaptada com atributos; equilíbrio ainda não validado.
+- **Tipo**: Monstro
+- **Nivel**: 3
+- **Vigor**: 5
+- **Destreza**: 0
+- **Intelecto**: 0
+- **Base**: largura: 2, comprimento: 2
 
 ### Talentos e características
 
@@ -1007,25 +986,24 @@ Priest Acolyte, representado como humano nesta adaptação.
 
 ### Detalhes
 
-- titulo: Cena sugerida, texto: Ocupante de ponte ou gruta. Pode cobrar passagem e aceitar uma negociação.
-- titulo: Adaptação, texto: O porrete de duas mãos causa 1d6 de dano base. Com Vigor 5, o ataque causa 1d6 + 2. Sem arremesso de rochas.
+- **Cena sugerida**: Ocupante de ponte ou gruta. Pode cobrar passagem e aceitar uma negociação.
+- **Adaptação**: O porrete de duas mãos causa 1d6 de dano base. Com Vigor 5, o ataque causa 1d6 + 2. Sem arremesso de rochas.
 
 ### Referência
 
 Ogre.
 
----
+## Minotauro (C22)
 
 ![Minotauro](imagens/monstro-minotauro.jpg)
 
-## Minotauro (C22)
-
-**Tipo:** Monstro
-**Nível:** 3
-**Status:** Adaptada com atributos; equilíbrio ainda não validado.
-**Vigor:** 4
-**Destreza:** 1
-**Intelecto:** 1
+- **Status**: Adaptada com atributos; equilíbrio ainda não validado.
+- **Tipo**: Monstro
+- **Nivel**: 3
+- **Vigor**: 4
+- **Destreza**: 1
+- **Intelecto**: 1
+- **Base**: largura: 2, comprimento: 2
 
 ### Talentos e características
 
@@ -1048,25 +1026,24 @@ Sem moedas habituais. Ocasionalmente, uma chave de bronze presa ao cinto. O mest
 
 ### Detalhes
 
-- titulo: Cena sugerida, texto: Guardião de um labirinto. Pode perseguir intrusos ou proteger um objeto.
-- titulo: Adaptação, texto: Sem empurrão, investida especial ou alcance ampliado.
+- **Cena sugerida**: Guardião de um labirinto. Pode perseguir intrusos ou proteger um objeto.
+- **Adaptação**: Sem empurrão, investida especial ou alcance ampliado.
 
 ### Referência
 
 Minotaur of Baphomet.
 
----
+## Troll (C23)
 
 ![Troll](imagens/monstro-troll.jpg)
 
-## Troll (C23)
-
-**Tipo:** Monstro
-**Nível:** 3
-**Status:** Adaptada com atributos; equilíbrio ainda não validado.
-**Vigor:** 3
-**Destreza:** 1
-**Intelecto:** 0
+- **Status**: Adaptada com atributos; equilíbrio ainda não validado.
+- **Tipo**: Monstro
+- **Nivel**: 3
+- **Vigor**: 3
+- **Destreza**: 1
+- **Intelecto**: 0
+- **Base**: largura: 2, comprimento: 2
 
 ### Talentos e características
 
@@ -1089,25 +1066,24 @@ Sem moedas habituais. Ocasionalmente, uma pederneira entre os pertences de um vi
 
 ### Detalhes
 
-- titulo: Cena sugerida, texto: Habitante de brejo ou ruína. É uma ameaça resistente que pode ser evitada.
-- titulo: Adaptação, texto: Versão muito simplificada: sem regeneração, imunidades ou exigência de fogo para vencer.
+- **Cena sugerida**: Habitante de brejo ou ruína. É uma ameaça resistente que pode ser evitada.
+- **Adaptação**: Versão muito simplificada: sem regeneração, imunidades ou exigência de fogo para vencer.
 
 ### Referência
 
 Troll.
 
----
+## Urso-coruja (C24)
 
 ![Urso-coruja](imagens/monstro-urso-coruja.jpg)
 
-## Urso-coruja (C24)
-
-**Tipo:** Monstro
-**Nível:** 3
-**Status:** Adaptada com atributos; equilíbrio ainda não validado.
-**Vigor:** 4
-**Destreza:** 1
-**Intelecto:** 0
+- **Status**: Adaptada com atributos; equilíbrio ainda não validado.
+- **Tipo**: Monstro
+- **Nivel**: 3
+- **Vigor**: 4
+- **Destreza**: 1
+- **Intelecto**: 0
+- **Base**: largura: 2, comprimento: 2
 
 ### Talentos e características
 
@@ -1129,25 +1105,24 @@ Sem moedas habituais. Ocasionalmente, uma pena grande e rajada, que também pode
 
 ### Detalhes
 
-- titulo: Cena sugerida, texto: Predador territorial. Seu ninho pode explicar a agressividade.
-- titulo: Adaptação, texto: Uma garra por ação; bico não concede ataque adicional.
+- **Cena sugerida**: Predador territorial. Seu ninho pode explicar a agressividade.
+- **Adaptação**: Uma garra por ação; bico não concede ataque adicional.
 
 ### Referência
 
 Owlbear.
 
----
+## Lobo atroz (C25)
 
 ![Lobo atroz](imagens/animal-lobo-atroz.jpg)
 
-## Lobo atroz (C25)
-
-**Tipo:** Animal
-**Nível:** 3
-**Status:** Adaptada com atributos; equilíbrio ainda não validado.
-**Vigor:** 4
-**Destreza:** 2
-**Intelecto:** 0
+- **Status**: Adaptada com atributos; equilíbrio ainda não validado.
+- **Tipo**: Animal
+- **Nivel**: 3
+- **Vigor**: 4
+- **Destreza**: 2
+- **Intelecto**: 0
+- **Base**: largura: 2, comprimento: 2
 
 ### Talentos e características
 
@@ -1168,25 +1143,24 @@ Ocasionalmente, uma presa grande. Quem conhece a região pode identificar o anim
 
 ### Detalhes
 
-- titulo: Cena sugerida, texto: Caçador de grandes clareiras. Sua mobilidade ameaça personagens isolados.
-- titulo: Adaptação, texto: Sem derrubar ou bônus de matilha.
+- **Cena sugerida**: Caçador de grandes clareiras. Sua mobilidade ameaça personagens isolados.
+- **Adaptação**: Sem derrubar ou bônus de matilha.
 
 ### Referência
 
 Dire Wolf.
 
----
+## Worg (C26)
 
 ![Worg](imagens/monstro-worg.jpg)
 
-## Worg (C26)
-
-**Tipo:** Monstro
-**Nível:** 3
-**Status:** Adaptada com atributos; equilíbrio ainda não validado.
-**Vigor:** 4
-**Destreza:** 2
-**Intelecto:** 1
+- **Status**: Adaptada com atributos; equilíbrio ainda não validado.
+- **Tipo**: Monstro
+- **Nivel**: 3
+- **Vigor**: 4
+- **Destreza**: 2
+- **Intelecto**: 1
+- **Base**: largura: 2, comprimento: 2
 
 ### Talentos e características
 
@@ -1208,25 +1182,24 @@ Sem moedas habituais. Quando acompanha uma patrulha organizada, o worg pode usar
 
 ### Detalhes
 
-- titulo: Cena sugerida, texto: Predador astuto. Pode defender um território ou acompanhar uma patrulha.
-- titulo: Adaptação, texto: Sem bônus de montaria ou ataque adicional.
+- **Cena sugerida**: Predador astuto. Pode defender um território ou acompanhar uma patrulha.
+- **Adaptação**: Sem bônus de montaria ou ataque adicional.
 
 ### Referência
 
 Worg.
 
----
+## Leão (C27)
 
 ![Leão](imagens/animal-leao.jpg)
 
-## Leão (C27)
-
-**Tipo:** Animal
-**Nível:** 3
-**Status:** Adaptada com atributos; equilíbrio ainda não validado.
-**Vigor:** 4
-**Destreza:** 2
-**Intelecto:** 0
+- **Status**: Adaptada com atributos; equilíbrio ainda não validado.
+- **Tipo**: Animal
+- **Nivel**: 3
+- **Vigor**: 4
+- **Destreza**: 2
+- **Intelecto**: 0
+- **Base**: largura: 2, comprimento: 2
 
 ### Talentos e características
 
@@ -1247,25 +1220,24 @@ Ocasionalmente, uma garra, aproveitável como pingente.
 
 ### Detalhes
 
-- titulo: Cena sugerida, texto: Predador de campos abertos. Pode abandonar a disputa se o grupo recuar.
-- titulo: Adaptação, texto: Sem salto especial ou derrubar.
+- **Cena sugerida**: Predador de campos abertos. Pode abandonar a disputa se o grupo recuar.
+- **Adaptação**: Sem salto especial ou derrubar.
 
 ### Referência
 
 Lion.
 
----
+## Tigre (C28)
 
 ![Tigre](imagens/animal-tigre.jpg)
 
-## Tigre (C28)
-
-**Tipo:** Animal
-**Nível:** 3
-**Status:** Adaptada com atributos; equilíbrio ainda não validado.
-**Vigor:** 5
-**Destreza:** 2
-**Intelecto:** 0
+- **Status**: Adaptada com atributos; equilíbrio ainda não validado.
+- **Tipo**: Animal
+- **Nivel**: 3
+- **Vigor**: 5
+- **Destreza**: 2
+- **Intelecto**: 0
+- **Base**: largura: 2, comprimento: 2
 
 ### Talentos e características
 
@@ -1287,25 +1259,24 @@ Ocasionalmente, uma presa longa, aproveitável como troféu.
 
 ### Detalhes
 
-- titulo: Cena sugerida, texto: Caçador de mata fechada. Rastros podem oferecer aviso e rota alternativa.
-- titulo: Adaptação, texto: Sem dano extra de emboscada; descoberta depende da cena e dos testes normais.
+- **Cena sugerida**: Caçador de mata fechada. Rastros podem oferecer aviso e rota alternativa.
+- **Adaptação**: Sem dano extra de emboscada; descoberta depende da cena e dos testes normais.
 
 ### Referência
 
 Tiger.
 
----
+## Cubo gelatinoso (C29)
 
 ![Cubo gelatinoso](imagens/monstro-cubo-gelatinoso.jpg)
 
-## Cubo gelatinoso (C29)
-
-**Tipo:** Monstro
-**Nível:** 3
-**Status:** Adaptada com atributos; equilíbrio ainda não validado.
-**Vigor:** 2
-**Destreza:** 0
-**Intelecto:** 0
+- **Status**: Adaptada com atributos; equilíbrio ainda não validado.
+- **Tipo**: Monstro
+- **Nivel**: 3
+- **Vigor**: 2
+- **Destreza**: 0
+- **Intelecto**: 0
+- **Base**: largura: 2, comprimento: 2
 
 ### Talentos e características
 
@@ -1327,25 +1298,24 @@ Ocasionalmente, 4 a 10 moedas visíveis no interior do cubo. Os jogadores també
 
 ### Detalhes
 
-- titulo: Cena sugerida, texto: Ocupa uma passagem larga. Sua lentidão permite observar e buscar outra rota.
-- titulo: Adaptação, texto: Contato é um ataque contra Defesa, não dano automático. Sem engolfar, paralisar ou destruir itens.
+- **Cena sugerida**: Ocupa uma passagem larga. Sua lentidão permite observar e buscar outra rota.
+- **Adaptação**: Contato é um ataque contra Defesa, não dano automático. Sem engolfar, paralisar ou destruir itens.
 
 ### Referência
 
 Gelatinous Cube.
 
----
+## Gigante das colinas (C30)
 
 ![Gigante das colinas](imagens/monstro-gigante-das-colinas.jpg)
 
-## Gigante das colinas (C30)
-
-**Tipo:** Monstro
-**Nível:** 3
-**Status:** Adaptada com atributos; equilíbrio ainda não validado.
-**Vigor:** 5
-**Destreza:** 0
-**Intelecto:** 0
+- **Status**: Adaptada com atributos; equilíbrio ainda não validado.
+- **Tipo**: Monstro
+- **Nivel**: 3
+- **Vigor**: 5
+- **Destreza**: 0
+- **Intelecto**: 0
+- **Base**: largura: 3, comprimento: 3
 
 ### Talentos e características
 
@@ -1368,25 +1338,24 @@ Gelatinous Cube.
 
 ### Detalhes
 
-- titulo: Cena sugerida, texto: Ocupante de um vale ou salão enorme. Pode exigir comida ou afastar intrusos.
-- titulo: Adaptação, texto: Sem armadura ou escudo. Porrete de duas mãos treinado; uma ação por ataque. Sem rochas, alcance ampliado ou vários ataques; usar como ameaça anunciada.
+- **Cena sugerida**: Ocupante de um vale ou salão enorme. Pode exigir comida ou afastar intrusos.
+- **Adaptação**: Sem armadura ou escudo. Porrete de duas mãos treinado; uma ação por ataque. Sem rochas, alcance ampliado ou vários ataques; usar como ameaça anunciada.
 
 ### Referência
 
 Hill Giant.
 
----
+## Veterano humano (H05)
 
 ![Veterano humano](imagens/humano-veterano-humano.jpg)
 
-## Veterano humano (H05)
-
-**Tipo:** Humano
-**Nível:** 3
-**Status:** Adaptada com atributos; equilíbrio ainda não validado.
-**Vigor:** 5
-**Destreza:** 1
-**Intelecto:** 1
+- **Status**: Adaptada com atributos; equilíbrio ainda não validado.
+- **Tipo**: Humano
+- **Nivel**: 3
+- **Vigor**: 5
+- **Destreza**: 1
+- **Intelecto**: 1
+- **Base**: largura: 1, comprimento: 1
 
 ### Talentos e características
 
@@ -1410,25 +1379,24 @@ Hill Giant.
 
 ### Detalhes
 
-- titulo: Cena sugerida, texto: Defensor experiente ou líder de patrulha. Pode aceitar duelo, acordo ou retirada.
-- titulo: Atenção, texto: Defender a si mesmo eleva a Defesa a 17. Defender aliado exige ação, escudo e adjacência; eleva a Defesa do Veterano a 16 e concede +1 Defesa ao aliado até o próximo turno. Não pode atacar e Defender na mesma ação.
+- **Cena sugerida**: Defensor experiente ou líder de patrulha. Pode aceitar duelo, acordo ou retirada.
+- **Atenção**: Defender a si mesmo eleva a Defesa a 17. Defender aliado exige ação, escudo e adjacência; eleva a Defesa do Veterano a 16 e concede +1 Defesa ao aliado até o próximo turno. Não pode atacar e Defender na mesma ação.
 
 ### Referência
 
 Veteran Warrior, representado como humano nesta adaptação.
 
----
+## Mago humano (H06)
 
 ![Mago humano](imagens/humano-mago-humano.jpg)
 
-## Mago humano (H06)
-
-**Tipo:** Humano
-**Nível:** 2
-**Status:** Adaptada com atributos; equilíbrio ainda não validado.
-**Vigor:** 2
-**Destreza:** 1
-**Intelecto:** 3
+- **Status**: Adaptada com atributos; equilíbrio ainda não validado.
+- **Tipo**: Humano
+- **Nivel**: 2
+- **Vigor**: 2
+- **Destreza**: 1
+- **Intelecto**: 3
+- **Base**: largura: 1, comprimento: 1
 
 ### Talentos e características
 
@@ -1445,9 +1413,9 @@ Veteran Warrior, representado como humano nesta adaptação.
 
 ### Equipamento
 
-- identificador: catalisador-dano, nome: Catalisador de dano — 6 cargas, tipo: item-magico, quantidade: 1, treinamento: magia-ofensiva, cargasMaximas: 6, alcance: 6 casas, efeito: tipo: dano, valor: 1d3
-- identificador: catalisador-controle, nome: Catalisador de controle — 5 cargas, tipo: item-magico, quantidade: 1, treinamento: magia-controladora, cargasMaximas: 5, alcance: 6 casas, efeito: tipo: controle
-- identificador: pergaminho-recarga, nome: Pergaminho de recarga do catalisador de dano, tipo: pergaminho, quantidade: 1, efeito: tipo: recarga, alvoRecarga: catalisador-dano
+- identificador: catalisador-dano, nome: Catalisador de dano — 6 cargas, tipo: item-magico, quantidade: 1, treinamento: magia-ofensiva, cargasMaximas: 6, alcance: 6 casas, efeito: {'tipo': 'dano', 'valor': '1d3'}
+- identificador: catalisador-controle, nome: Catalisador de controle — 5 cargas, tipo: item-magico, quantidade: 1, treinamento: magia-controladora, cargasMaximas: 5, alcance: 6 casas, efeito: {'tipo': 'controle'}
+- identificador: pergaminho-recarga, nome: Pergaminho de recarga do catalisador de dano, tipo: pergaminho, quantidade: 1, efeito: {'tipo': 'recarga', 'alvoRecarga': 'catalisador-dano'}
 - identificador: adaga, nome: Adaga, tipo: arma, quantidade: 1, treinamento: laminas-uma-mao, dano: 1d3, alcance: adjacente
 - identificador: armadura-leve, nome: Armadura leve, tipo: armadura, quantidade: 1, defesa: 1, penalidadeMovimento: 0
 
@@ -1457,11 +1425,13 @@ Veteran Warrior, representado como humano nesta adaptação.
 
 ### Detalhes
 
-- titulo: Cena sugerida, texto: Especialista em objetos arcanos. Pode ser rival, pesquisador ou aliado temporário.
-- titulo: Atenção, texto: Controle não causa dano: impede deslocamento, inclusive Arrancada, e impõe −3 no próximo ataque até o início do próximo turno do usuário; o alvo ainda pode agir. Uma ação por uso. Falhas de ativação consomem carga. O pergaminho recarrega somente o catalisador de dano. Não tem magia própria nem Mana.
+- **Cena sugerida**: Especialista em objetos arcanos. Pode ser rival, pesquisador ou aliado temporário.
+- **Atenção**: Controle não causa dano: impede deslocamento, inclusive Arrancada, e impõe −3 no próximo ataque até o início do próximo turno do usuário; o alvo ainda pode agir. Uma ação por uso. Falhas de ativação consomem carga. O pergaminho recarrega somente o catalisador de dano. Não tem magia própria nem Mana.
 
 ### Referência
 
 Mage, representado como humano nesta adaptação.
 
----
+### Atribuição
+
+This work includes material from the System Reference Document 5.2.1 (“SRD 5.2.1”) by Wizards of the Coast LLC, available at https://www.dndbeyond.com/srd. The SRD 5.2.1 is licensed under the Creative Commons Attribution 4.0 International License, available at https://creativecommons.org/licenses/by/4.0/legalcode.

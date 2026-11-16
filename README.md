@@ -1,5 +1,7 @@
 <h1 align="center">Dado e Prosa</h1>
 
+Versão 0.15
+
 <p align="center">
   <img src="imagens/pc-feminino-guerreira.jpg" alt="Personagem guerreira" width="145" />
   <img src="imagens/pc-masculino-mago.jpg" alt="Personagem mago" width="145" />
@@ -27,7 +29,7 @@ A proposta tem como inspiração a simplicidade e o espírito de aventura dos te
 
 | | |
 |:--|:--|
-| 📕 [Regras — Dado e Prosa (versão 0.9)](pdf/Dado-e-Prosa-Regras-0.9.pdf) | 🧙 [Personagens iniciais](pdf/Personagens-iniciais.pdf) |
+| 📕 [Regras — Dado e Prosa (versão 0.15)](pdf/Dado-e-Prosa-Regras-0.9.pdf) | 🧙 [Personagens iniciais](pdf/Personagens-iniciais.pdf) |
 | 👹 [Monstrous Compendium](pdf/Bestiario.pdf) | 🎒 [Lista de compras, itens e talentos](pdf/Lista-de-compras.pdf) |
 
 ---

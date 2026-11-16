@@ -1,6 +1,6 @@
 # Dado e Prosa
 
-Versão 0.9 · Última modificação em 09/11/2026
+Versão 0.15 · Última modificação em 11/11/2026
 
 *Um RPG de fantasia para começar a jogar*
 
@@ -19,8 +19,8 @@ Em suma, o jogo depende da interpretação, do trabalho em grupo e da inventivid
 Não há classes obrigatórias. Guerreiro, mago, ladrão e clérigo são referências para imaginar personagens; não restringem atributos, talentos ou equipamento. A ideia é que qualquer personagem seja capaz de fazer qualquer coisa. Entretanto, os que tem treinamento específico, não sofrem penalidades. 
 
 ## Convenções 
-**PC** = Player Character (personagem do jogador)
-**NPC** = Non-Player Character (personagem controlado pelo mestre)
+**PC** = Player Character (personagem do jogador);
+**NPC** = Non-Player Character (personagem controlado pelo mestre);
 **Modificadores** = Bônus e penalidades que aumentam ou reduzem uma rolagem ou um valor da ficha, como Defesa ou movimento.
 
 ## Como criar seu personagem
@@ -124,6 +124,13 @@ Role 1d20 + atributo. Aplique **−3** apenas se houver um talento correspondent
 | Difícil | 16 | Desarmar um mecanismo complexo. |
 
 O mestre escolhe a dificuldade conforme a situação. Aventuras prontas podem trazer os valores definidos.
+### Exemplos de arbitragem
+
+Os exemplos abaixo são orientações; o mestre decide conforme a situação.
+
+- **Exploração:** uma porta emperrada pode ser forçada com Vigor. O mestre decide se há incerteza suficiente para pedir um teste e o que muda em caso de falha.
+- **Interação social:** ao tentar convencer um guarda, considere primeiro o argumento e a interpretação do jogador. O mestre decide se a conversa exige um teste e quais seriam as consequências de uma falha.
+- **Ação em combate:** se alguém tentar derrubar uma estante para bloquear uma passagem, o mestre decide se a ação é possível, quanto custa e se o resultado exige um teste.
 
 | Atividade | Atributo | Talento |
 |---|---|---|
@@ -144,11 +151,13 @@ O mestre escolhe a dificuldade conforme a situação. Aventuras prontas podem tr
 
 ## Magia e recursos - provisória
 
-Não há Mana nem magia própria nesta etapa. Magias são usadas por meio de itens mágicos. Espírito poderá ser acrescentado futuramente.
+Em análise.
 
 ## Lista de compras inicial
 
 Cada personagem pode gastar até **100 moedas** na criação. O saldo fica como crédito na ficha. Os preços e efeitos mágicos ainda precisam de testes.
+
+Ao final da campanha, qualquer item pode ser revendido por 10% do seu preço de compra, arredondado para a moeda inteira mais próxima. Não há revenda durante a campanha.
 
 Os danos das armas nas tabelas abaixo são **danos base**. Em ataques corpo a corpo, acrescente metade do Vigor, arredondada para baixo, conforme [Dano](#dano). Ataques à distância, incluindo arremessos, e efeitos mágicos não recebem esse acréscimo.
 
@@ -167,7 +176,7 @@ Para usar um item, seu personagem precisa ter pelo menos o valor indicado na col
 | Equipamento         | Preço (moedas) | Atributo mínimo | Descrição                              |
 | ------------------- | -------------: | --------------- | -------------------------------------- |
 | Espada de duas mãos |             20 | 2 VIG           | Causa 1d6 de dano; ocupa as duas mãos. |
-| Arco e flechas      |             25 | 1 DES           | Causa 1d4 de dano; ocupa as duas mãos. |
+| Arco e flechas      |             25 | 1 DES           | Causa 1d4 de dano; ocupa as duas mãos e inclui uma aljava com 20 flechas. Cada disparo consome uma flecha. |
 
 ### Armaduras e escudo
 
@@ -182,7 +191,7 @@ Para usar um item, seu personagem precisa ter pelo menos o valor indicado na col
 
 | Equipamento                    | Preço (moedas) | Atributo mínimo | Descrição                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | ------------------------------ | -------------: | --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Catalisador arcano de dano     |             30 | 1 INT           | Objeto de uma mão; até 6 cargas (provisório); causa 1d3 de dano em uma ativação bem-sucedida. Pode ser usado com escudo.                                                                                                                                                                                                                                                                                                                                                                                |
+| Catalisador arcano de dano     |             30 | 1 INT           | Objeto de uma mão; até 6 cargas; causa 1d3 de dano em uma ativação bem-sucedida. Pode ser usado com escudo.                                                                                                                                                                                                                                                                                                                                                                                |
 | Catalisador arcano de controle |             30 | 1 INT           | Objeto de uma mão; até 5 cargas. Uma ativação bem-sucedida impede o alvo de se deslocar, inclusive usando Arrancada, até o início do próximo turno de quem ativou o catalisador. Também impõe −3 no próximo ataque do alvo realizado nesse intervalo. O alvo ainda pode agir e atacar quem estiver ao alcance. Atacar não encerra a imobilização; se não atacar durante o efeito, a penalidade expira sem ser usada. Efeitos repetidos não se acumulam. Pode ser usado com escudo. |
 | Relicário de proteção          |             30 | 1 INT           | Objeto de uma mão; até 3 cargas; uma ativação bem-sucedida concede +3 Defesa até o início do próximo turno de quem ativou o relicário; pode afetar o usuário ou um aliado a até 6 casas. Segurá-lo não concede bônus. Pode ser usado com escudo.                                                                                                                                                                                                                                   |
 | Relicário de cura              |             30 | 1 INT           | Objeto de uma mão; até 3 cargas; uma ativação bem-sucedida recupera 6 PV, sem ultrapassar o PV máximo. Um alvo inconsciente desperta com 1 PV e perde seu próximo turno, como na cura por poção. Pode afetar o usuário ou um aliado a até 6 casas. Pode ser usado com escudo.                                                                                                                                                                                                      |
@@ -194,6 +203,12 @@ Para usar um item, seu personagem precisa ter pelo menos o valor indicado na col
 | Pergaminho de recarga      |    20 | — | Consome uma ação e recarrega completamente um catalisador ou relicário correspondente; exige o talento Pergaminhos, não exige teste e é consumido. Não é uma arma. |
 | Pergaminho de ressurreição |    50 | — | Consome uma ação e é consumido para trazer um PC morto de volta à vida com 1 PV; exige o talento Pergaminhos.                                                      |
 
+### Munição
+
+| Equipamento | Preço (moedas) | Atributo mínimo | Descrição |
+|---|---:|---|---|
+| Aljava com 20 flechas | 10 | — | Contém 20 flechas. Cada disparo com arco consome uma flecha. |
+| Maço de 20 flechas | 5 | — | Contém 20 flechas para reposição. |
 ### Miscelânea
 
 | Equipamento   | Preço (moedas) | Atributo mínimo | Descrição                                                                                                                                                                                    |
@@ -248,7 +263,7 @@ Um encontro é uma cena da aventura em que os personagens lidam com uma situaç�
 
 - **Defesa:** `10 + armadura + escudo + outros bônus`. Outros bônus podem vir, por exemplo, de um efeito protetivo ou da ação Defender.
 - Sem armadura, a Defesa é 10 antes de aplicar escudo e outros bônus; não há penalidade adicional de Defesa.
-- Um ataque acerta se igualar ou superar a Defesa.
+- Um ataque acerta se igualar ou superar a Defesa. Contra um PC ou NPC inconsciente, acerta automaticamente e ignora a Defesa, salvo erro crítico do atacante (1 natural); se acertar, aplica o dano normalmente.
 - Armadura leve concede +1 Defesa; média, +2; pesada, +3.
 - Escudo concede +1 Defesa sem Treinamento com escudos ou +3 com esse talento.
 - **Defender:** gaste sua ação e escolha uma das opções abaixo. O efeito dura até o início do seu próximo turno. Os efeitos a seguir não são cumulativos: 
@@ -264,7 +279,7 @@ Um encontro é uma cena da aventura em que os personagens lidam com uma situaç�
 
 ## Críticos
 
-- **Erro crítico:** resultado natural 1 falha e faz o personagem perder seu próximo turno. Em um ataque de projétil comum, se houver PCs na trajetória, o dano é aplicado ao PC mais próximo da origem do ataque em vez do alvo; se houver apenas NPCs na trajetória, não os atinge. O alvo original não é atingido. Projéteis mágicos nunca atingem personagens que não sejam o alvo.
+- **Erro crítico:** resultado natural 1 falha e faz o personagem perder a ação do próximo turno. Ele ainda pode se mover normalmente, mas não pode usar Arrancada, que consome a ação. Em um ataque de projétil comum, se houver PCs na trajetória, o dano é aplicado ao PC mais próximo da origem do ataque em vez do alvo; se houver apenas NPCs na trajetória, não os atinge. O alvo original não é atingido. Projéteis mágicos nunca atingem personagens que não sejam o alvo.
 - **Acerto crítico:** resultado natural 20 sempre acerta um ataque ou ativa um item mágico. Se o ataque ou efeito causar dano, acrescente +2 ao dano, inclusive ao dano mágico.
 
 ### Observações
@@ -293,6 +308,7 @@ A presença de um inimigo em qualquer casa adjacente impede disparar com arco. C
 - O movimento base é de 4 casas. A cada 2 pontos de Destreza, acrescente 1 casa; 
 - Ao usar **Arrancada**, gaste a ação do turno para se mover mais uma vez. O limite desse deslocamento adicional é de **2 casas + metade da Destreza, arredondada para baixo**. Com Destreza 3, por exemplo, você pode percorrer até 3 casas extras.
 - O tabuleiro é quadriculado. As oito casas ao redor do personagem são adjacentes, incluindo as diagonais. Cada passo para uma casa vizinha custa 1 casa de movimento, inclusive na diagonal.
+- Durante um encontro, ao sair voluntariamente de uma casa adjacente a um inimigo, o personagem pode provocar um ataque de oportunidade. Antes de continuar o movimento, um dos inimigos adjacentes faz um ataque corpo a corpo normal contra ele, sem gastar a ação do turno desse inimigo. Cada personagem pode provocar no máximo um ataque de oportunidade durante o próprio turno. Deslocamentos forçados não provocam ataques de oportunidade.
 - Não é permitido atravessar casas ocupadas por personagens (como por exemplo em um túnel com uma casa de espaço), sejam aliados ou inimigos, nem terminar o movimento nelas.
 - Provisoriamente, bases maiores seguem as mesmas regras das bases pequenas. Na avaliação da trajetória de quaisquer criaturas, prevalece o bom senso do mestre.
 - ARMADURAS:
@@ -301,7 +317,7 @@ A presença de um inimigo em qualquer casa adjacente impede disparar com arco. C
 
 ## Ainda a definir
 
-Consulte a [documentos desta edição](README.md) para ver as decisões de regras ainda em aberto.
+Consulte a lista de pendências do projeto para ver as decisões de regras ainda em aberto.
 
 
 # CRIATURAS — ATRIBUTOS E TALENTOS
